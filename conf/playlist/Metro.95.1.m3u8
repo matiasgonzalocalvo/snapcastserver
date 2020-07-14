@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTIMG:/etc/mopidy/playlists/metro.jpg
+#EXTINF:-1 logo="/etc/mopidy/playlists/metro.jpg",metro amigo
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
+#EXTIMG:/etc/mopidy/playlists/metro.jpg

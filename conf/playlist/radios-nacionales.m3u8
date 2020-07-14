@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0, Pop 101.5 san luis
+http://69.175.20.242:8086/live
+#EXTINF:0, Pop 101.5 hls
+http://popradio.stweb.tv:1935/popradio/live/playlist.m3u8
